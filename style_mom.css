@@ -1,0 +1,41 @@
+header {
+    padding: 3ch;
+    background-color: #38003c;
+    color: antiquewhite;
+}
+body {
+    background-color: #00ff85;
+    text-align: center;
+}
+footer {
+    padding: 3ch;
+    display: flex;
+    flex-direction: column;
+    text-align:left;
+    background-color: #38003c;
+    color: antiquewhite;
+}
+a {
+    color: #e90052;
+}
+#arsenal, #liverpool, #city, #united, #newcastle {
+    font-family: sans-serif, courier;
+    background-color:#38003c;
+    color: antiquewhite;
+    display: inline-block;
+}
+#comment {
+    height: 200px;
+    text-align:center;
+    font-size: large;
+    font-weight: bold;
+    padding-top: 2%;
+    align-items: center;
+}
+#cbox {
+    font-size: large;
+    padding: 2%;
+}
+#button {
+    font-size: 16px;
+}
